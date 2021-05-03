@@ -1,4 +1,4 @@
-    pokemonListHeadline: "Your Pokémon",
+    pokemonListHeadline: "Seu Pokémon",
 
     // info panel
     info: "Informações",
@@ -24,7 +24,7 @@
     // additional infos
     caughtBy: "Capturado por",
     originalChannel: "Origem",
-    caughtAtFormat: (ano, mês, dia) => `${day}/${month}/${year}`,
+    caughtAtFormat: (year, month, day) => `${day}/${month}/${year}`,
 
     // selling
     sell: (amount) => `Vender $${amount}`,
