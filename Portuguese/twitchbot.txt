@@ -15,7 +15,7 @@ TRAINER_NO_BUDDY = "@{USER} Você ainda não selecionou um amigão. Clique com o
 TRAINER_DEX_UNKNOWN = "@{USER} Este dex não existe. Por favor, escolha uma geração ou tipo."
 TRAINER_DEX_DATA = "@{USER} {DEX-TYPE}: {AMOUNT CAUGHT} / {AMOUNT ALL POKEMON} ({COMPLETION IN %}%)"
 ITEM_LIST = "@{USER} Seus itens: {ITEMS}"
-HELP = "Todos os comandos: https://https://docs.google.com/document/d/1PLUpBbEhfFT8BNJ8VPgsp7Md9nb_QXY7Q-PzFa6cPdQ"
+HELP = "Todos os comandos: https://docs.google.com/document/d/1PLUpBbEhfFT8BNJ8VPgsp7Md9nb_QXY7Q-PzFa6cPdQ"
 NO_MONEY = "@{USER} Você não tem Poké-Dólares suficientes para fazer isso."
 POKEDAILY = "Visite nosso Discord para reivindicar recompensas bacanas todos os dias: https://discord.gg/cT3ThCj"
 
